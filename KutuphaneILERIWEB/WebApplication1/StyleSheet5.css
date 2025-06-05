@@ -1,0 +1,50 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #fdfcfb;
+}
+
+.profile-container {
+    width: 400px;
+    margin: 100px auto;
+    padding: 30px;
+    background-color: #fdfcfb;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+h2.section-header {
+    text-align: center;
+    background-color: #ff914d;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.info-row {
+    margin: 15px 0;
+}
+
+.label-title {
+    font-weight: bold;
+    color: #555;
+}
+
+.label-value {
+    color: #000;
+    margin-left: 10px;
+}
+
+#btnAra {
+    padding: 10px 20px;
+    background-color: #ff914d;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 135px;
+    transition: background-color 0.3s ease;
+}
+
+#btnAra:hover {
+        background-color: black;
+}

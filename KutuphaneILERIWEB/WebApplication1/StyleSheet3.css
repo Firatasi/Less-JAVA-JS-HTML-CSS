@@ -1,0 +1,66 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    background-color: rgba(255, 255, 255, 0.95);
+    width: 400px;
+    margin: 100px auto;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+#txtKullaniciAdi, #txtSifre {
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.info-label {
+    display: block;
+    margin-top: 5px;
+    font-size: 13px;
+    color: #555;
+}
+
+#btnGiris, #btnKayit {
+    padding: 10px 20px;
+    background-color: #ff914d;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px 0px 0px 50px;
+    transition: background-color 0.3s ease;
+}
+
+#btnKayit:hover {
+    background-color: black;
+}
+#btnGiris:hover {
+    background-color: black;
+}
+
+.form-buttons {
+    margin-top: 15px;
+}
