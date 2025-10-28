@@ -1,0 +1,76 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+img {
+    margin-top: 60px;
+    margin-left: 40%;
+    margin-bottom: 50px;
+}
+
+p {
+    margin-left: 7%;
+}
+
+.container {
+    margin-left: 40%;
+    margin-bottom: 50px;
+}
+
+input.one {
+    width: 300px;
+}
+
+div.bar-1 {
+    float: left;
+    margin-left: 35%;
+    padding-right: 50px;
+}
+
+
+div.bar-1 ul li{
+    list-style-type: none;
+}
+
+div.bar-2 {
+    list-style-type: none;
+}
+
+div.bar-2 {
+    float: left;
+
+}
+
+div.bar-2 {
+    padding-right: 50px;
+}
+
+div.bar-3 ul li {
+    list-style-type: none;
+}
+
+button.but-a {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: -250px;
+}
+
+button.but-b {
+    position: absolute;
+    margin-left: -155px;
+    margin-top: 20px;
+}
+
+button.but-c {
+    position: relative;
+    top: 20px;
+    left: -70px;
+}
+
+footer {
+    position: relative;
+    top: 100px;
+    right: 160px;
+}
+
