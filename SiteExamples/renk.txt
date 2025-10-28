@@ -1,7 +1,0 @@
-
-arkaplan renk #121212
-j #F1EC40
-fsw E3E3E3
-
-
-
