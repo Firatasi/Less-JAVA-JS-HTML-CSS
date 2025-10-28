@@ -1,2 +1,0 @@
-Javac 102
-Ogreniyorum Java 102
